@@ -2370,4 +2370,21 @@
       ]
     }
   ]
-}
+},
+{
+      "name": "Cyber Leadership Institute",
+      "city": "Sydney",
+      "country": "Worldwide",
+      "link": "https://cyberleadershipinstitute.com/",
+      "twitter": "C_L_Institute",
+      "contacts": [
+        {
+          "name": "Catrina Mira",
+          "email": "catrina.mira@cyberresilience.com.au"
+        },
+        {
+          "name": "Kat Uytiepo",
+          "email": "kat.uytiepo@cyberleadershipinstitute.com"
+        }
+      ]
+    }
